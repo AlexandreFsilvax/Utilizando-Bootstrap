@@ -1,0 +1,24 @@
+.navbar { background-color: rgba(247, 182, 6, 0.836) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quemsomos {background-color: rgb(5, 21, 92);color:white;
+     padding-top:40px; padding-bottom:40px; font-style: italic;font-size:20px;
+}
+.DezaViagens {color:rgb(250, 250, 249); background-color:black;font-size:25px; 
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {margin-top:20px; margin-bottom:10px;
+}
+.col-sm-6 {margin-top:70px
+}
+.novidades{color:rgba(104, 15, 15, 0.932); background-color: rgba(247, 182, 6, 0.836);font-size:25px; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; padding-top:20px;
+}
+.promocoes {background-color:blue}
+
+.footer{background-color:black; font-size: 30px; font-family: serif;color:white; padding-top:30px;padding-bottom:40px;
+}
+
+.Contato {background-color:turquoise;font-size:20px; font-family: Verdana, Geneva, Tahoma, sans-serif;color:rgb(70, 14, 14)}
